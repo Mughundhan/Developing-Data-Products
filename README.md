@@ -1,4 +1,4 @@
-Expenses at University of Illinois at Chicago - UIC
+## Expenses at University of Illinois at Chicago - UIC
 
 This application is exclusively designed for Indian students with an admit at UIC. This application is intended to provide an interactive expense calculator for students at UIC during their entire course tenure. 
 
@@ -6,7 +6,7 @@ Each and every parameter is interlinked to the expense and savings. For example 
 
 Kindly check the application which is deployed as a shiny-app in the following link: https://mughundhanc.shinyapps.io/my_project/
 
-####Instructions
+#### Instructions
 ###### 1.Create ui.R file in your current working directory for your project
 ###### 2.shiny package is the only main requirement to be loaded in the ui.R file
 ###### 3.Make the required user interface design in the ui.R file as shown in my ui.R file
